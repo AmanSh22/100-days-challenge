@@ -1,4 +1,4 @@
-# 100 days challenge
+# 100 Days Challenge
 # Day 1
   solved 2 questions from hackerrank(1 month preparation kit)(1and 2)<br>
   [Plus Minus](https://www.hackerrank.com/challenges/one-month-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)<br>
