@@ -1,20 +1,21 @@
 # 100 Days Challenge
 
 # Day 1
-  solved 2 questions from hackerrank(1 month preparation kit)(1and 2)<br>
+  Solved 2 questions from hackerrank(1 month preparation kit)(1and 2)<br>
   [Plus Minus](https://www.hackerrank.com/challenges/one-month-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)<br>
   [Mini-Max Sum](https://www.hackerrank.com/challenges/one-month-preparation-kit-mini-max-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)
   
 # Day 2
-  solved 2 questions from hackerrank(3 and 4)<br>
+  Solved 2 questions from hackerrank(3 and 4)<br>
   [Time Conversion](https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)<br>
   [Sparse Arrays](https://www.hackerrank.com/challenges/one-month-preparation-kit-sparse-arrays/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)
   
 # Day 3
-  solved 2 questions from hackerrank(5 and 6)<br>
+  Solved 2 questions from hackerrank(5 and 6)<br>
   [Flipping Bits](https://www.hackerrank.com/challenges/one-month-preparation-kit-flipping-bits/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one&h_r=next-challenge&h_v=zen)<br>
   [Lonely Integer](https://www.hackerrank.com/challenges/one-month-preparation-kit-lonely-integer/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)<br>
   Also on this day I made an Analog clock.<br>
+  But this cannot be seen by you guys.<br>
   [Analog Clock](http://127.0.0.1:5500/Analog_clock/clock.html)
   
 # Day 4
