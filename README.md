@@ -32,7 +32,7 @@
   <br>
   
 # Day 6
-Solved 2 questions from HackerRank week 2 of monthly preparation kit.
+Solved 2 questions from HackerRank week 2 of monthly preparation kit.<br>
 [Sales By Match](https://www.hackerrank.com/challenges/one-month-preparation-kit-sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-two)<br>
 [Zig Zag Sequence](https://www.hackerrank.com/challenges/one-month-preparation-kit-zig-zag-sequence/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-two)<br>
 
@@ -41,6 +41,6 @@ Solved 2 questions from HackerRank week 2 of monthly preparation kit.
 # Day 8
   Done nothing.
 # Day 9
-  Solved 2 questions from HackerRAnk.
+  Solved 2 questions from HackerRank.<br>
 [Drawing Book](https://www.hackerrank.com/challenges/one-month-preparation-kit-drawing-book/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-two)<br>
 [Tower Breaker](https://www.hackerrank.com/challenges/one-month-preparation-kit-tower-breakers-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-two)<br>
